@@ -1,7 +1,7 @@
 # Greeting Cards Project
 
 ## Project Overview
-This project is a simple web-based application that showcases three greeting cards displayed under a styled header. The objective was to practice building a responsive layout using HTML, CSS, and JavaScript. Throughout this project, I learned about structuring a project effectively, designing visually appealing elements, and testing for cross-browser compatibility.
+This project is a simple web-based application that showcases three greeting cards displayed under a styled header. The objective was to build a React application using Vite and Tailwind CSS to practice creating components and passing props. Throughout this project, I learned about structuring a project effectively, designing visually appealing elements, and testing for cross-browser compatibility.
 
 ## Technologies Used
 The following technologies and tools were used in this project:
