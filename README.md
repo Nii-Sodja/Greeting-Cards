@@ -23,7 +23,3 @@ Working on this project was a valuable learning experience. I enhanced my skills
 - Testing for consistent behavior across browsers and screen sizes.
 
 It was a rewarding journey to see the final output come together after iterative design and testing.
-
----
-
-Let me know if you'd like to add more details or sections!
